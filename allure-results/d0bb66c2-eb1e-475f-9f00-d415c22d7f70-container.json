@@ -1,0 +1,1 @@
+{"uuid":"d0bb66c2-eb1e-475f-9f00-d415c22d7f70","name":"test","children":["4725c601-ad51-4e24-ab84-db3246ee8ecc"],"befores":[{"name":"globalLogs","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729780606792,"stop":1729780606811}],"afters":[],"start":1729780606724,"stop":1729780614795}
