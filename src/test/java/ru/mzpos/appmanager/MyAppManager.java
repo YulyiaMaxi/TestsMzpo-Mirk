@@ -20,7 +20,8 @@ public class MyAppManager {
         Configuration.baseUrl = "https://www.mzpo-s.ru/";
         Configuration.headless = false;
         Configuration.screenshots = true;
-        Configuration.pageLoadStrategy = "eager";
+       // Configuration.pageLoadStrategy = "eager";
+        Configuration.pageLoadTimeout = 140000;
 
         baseObject = new BaseObject(this);
 

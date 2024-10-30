@@ -2,9 +2,9 @@
 package ru.mzpo.forms;
 
 public class FeedBack {
-    public static String name = "Supertester_Events_MZPO";
-    public static String email = "1000000006@test.com";
-    public static String tel = "1000000006";
+    public static String name = "Supertester_Feedback_MZPO";
+    public static String email = "koko@koko.ebay";
+    public static String tel = "1000000002";
     public static String message = " ";
 
     public static String getName() {

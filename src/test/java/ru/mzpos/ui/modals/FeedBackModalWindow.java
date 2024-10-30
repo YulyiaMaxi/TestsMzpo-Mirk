@@ -1,4 +1,4 @@
- package ru.mzpos.ui.modals;
+package ru.mzpos.ui.modals;
 
 import ru.mzpos.TestBase;
 

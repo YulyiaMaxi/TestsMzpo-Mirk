@@ -1,0 +1,17 @@
+
+ Формы МЦПО-с:
+
+ ! путь к открытию и заполнению форм лежит через главную страницу !
+
+Главная страница МЦПО-с: mainpage
+Для формы Подарочный сертификат GiftCert
+
+
+
+ДЛЯ ФОРМЫ нАПИШИТЕ НАМ сайта МЦПО-С
+public static String name = "Supertester_Write2Us_MZPO";
+    public static String email = "write2us@mail.ru";
+    public static String tel = "1100000000";
+    public static String message = " ";
+
+
